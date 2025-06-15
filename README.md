@@ -29,33 +29,32 @@ Este é um projeto desenvolvido com Angular que simula uma aplicação de lista 
 - Zone.js
 
 ---
+## ▶️ Como Executar
 
-✅ Pré-requisitos
-1- Para executar o projeto, você precisa ter instalado:
+## ✅ Pré-requisitos
 Node.js (recomendado: v18+)
 Angular CLI (v20+)
+
+## 📦 Instalação
+Instale as dependências
 Instale o Angular CLI globalmente com:
 
-  bash
   npm install -g @angular/cli
 
-2- Instalação e Execução
+## ⚙️ Execução
 Extraia ou clone o projeto para sua máquina.
 Navegue até o diretório do projeto:
 
-  bash
   cd angular-todo-app
 
-3-Instale as dependências do projeto:
+## 📦 Instale as dependências do projeto:
 
-  bash
   npm install
 
-4-Execute o servidor de desenvolvimento:
-  
-  bash
+## 🔄Execute o servidor de desenvolvimento:
+
   ng serve
 
-5-Acesse o projeto pelo navegador:
+## 🚀 Acesse o projeto pelo navegador:
   
   http://localhost:4200
